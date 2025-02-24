@@ -54,6 +54,7 @@ ol {
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background-color: #D9D9D9;
 }
+
 .content {
   display: grid;
   grid-template-columns: 711px 399px;
